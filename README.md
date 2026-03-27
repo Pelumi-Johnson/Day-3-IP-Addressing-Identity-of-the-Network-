@@ -59,7 +59,7 @@ Subnet Mask: 255.255.255.0
 Default Gateway: 192.168.1.1  
 
 ### 📸 PC IP Configuration
-![PC IP Config](pc-ip-config.png)
+![PC IP Config]()
 
 ---
 
@@ -72,8 +72,7 @@ ip address 192.168.1.1 255.255.255.0
 no shutdown  
 
 ### 📸 Router IP Configuration
-![Router IP Config](router-ip.png)
-
+![Router IP Config](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/blob/main/Screenshot%202026-03-27%20025058.png)
 ---
 
 ## 🧠 Subnet Mask Understanding
