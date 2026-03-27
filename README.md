@@ -92,18 +92,13 @@ Devices in:
 
 ping 192.168.1.11  
 
-### 📸 Successful Ping
-![Ping Success](ping-success.png)
-
----
-
 ## 💥 Failure Test (Network Break)
 
 Changed PC1 IP to:
 192.168.2.11  
 
 ### 📸 Failed Communication
-![Ping Failure](ping-failure.png)
+![Ping Failure](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/blob/main/Screenshot%202026-03-27%20025414.png)
 
 ---
 
