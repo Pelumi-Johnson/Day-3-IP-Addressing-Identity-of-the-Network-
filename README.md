@@ -84,7 +84,7 @@ Devices in:
 - 192.168.2.x → different network  
 
 ### 📸 Subnet / Network Boundary Visualization
-![Subnet Explanation](subnet.png)
+![Subnet Explanation](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/blob/main/Screenshot%202026-03-27%20164937.png)
 
 ---
 
