@@ -59,7 +59,7 @@ Subnet Mask: 255.255.255.0
 Default Gateway: 192.168.1.1  
 
 ### 📸 PC IP Configuration
-![PC IP Config]()
+![PC IP Config](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/blob/main/Screenshot%202026-03-27%20024942.png)
 
 ---
 
