@@ -42,7 +42,7 @@ Rebuilt the network topology from memory:
 - Straight-through cables
 
 ### 📸 Rebuilt Topology
-![Topology](topology.png)
+![Topology](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/blob/main/Screenshot%202026-03-27%20024815.png)
 
 ---
 
