@@ -20,7 +20,7 @@ It consists of:
 - Host portion (identifies the device)
 
 ### 📸 IP Addressing Concept / Diagram
-![IP Address Concept](ip-concept.png)
+![IP Address Concept](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/blob/main/ChatGPT%20Image%20Mar%2027%2C%202026%2C%2002_23_00%20PM.png)
 
 ---
 
